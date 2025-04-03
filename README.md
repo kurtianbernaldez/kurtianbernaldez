@@ -13,16 +13,26 @@ Hi! I'm **Kurt Ian G. Bernaldez**, an Information Technology student with 3+ yea
 ## 📌 Featured Projects  
 
 ### 1. **SSGC Group Website Redesign**  
-🔗 [Live Site (if available)](Website Link)  
-🛠 **Tech Stack:** WordPress, HTML, CSS, JavaScript, Bootstrap  
+🔗 [Live Site](https://ssgc.group/)  
+🛠 **Tech Stack:** WordPress, HTML, CSS, JavaScript
 📌 **Description:** As an intern at **SSGC Group**, I led a full website revision, improving UI/UX, responsiveness, and SEO. Key contributions:  
 - Redesigned the layout for a modern, user-friendly experience  
 - Optimized performance and search engine visibility  
 - Enhanced mobile responsiveness and navigation  
 - Implemented custom WordPress features and plugins  
 
+### 3. **Enomatics Wine Dispensing Website**  
+🔗 [Live Demo](http://enomaticsgid.42web.io/)  
+🛠 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
+📌 **Description:** Designed and developed the **official website for Enomatics**, a **wine dispensing company from Italy** that will be distributed by **SSGC in Singapore and Indonesia**.  
+- **Created an elegant, user-friendly UI**  
+- **Implemented product showcases** for Enomatics' wine dispensers  
+- **Optimized layout for smooth browsing**
+- 
 ### 2. **FoodPrepPro System**  
-🔗 [GitHub Repository](https://github.com/kurtianbernaldez/FoodPrepPro)  
+🔗 [GitHub Repository](https://github.com/kurtianbernaldez/FoodPrepPro)
+🔗 [Live Site](https://orderup-14fbd.web.app/)  
+
   🛠 **Tech Stack:** JavaScript, Firebase, HTML, CSS  
   📌 **Description:** Developed a **food ordering system** with:  
   - **Admin and Staff management dashboard**  
