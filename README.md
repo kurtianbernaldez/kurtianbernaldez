@@ -23,7 +23,7 @@ Hi! I'm **Kurt Ian G. Bernaldez**, an Information Technology student with 3+ yea
 
 ### 3. **Enomatics Wine Dispensing Website**  
 🔗 [Live Demo](http://enomaticsgid.42web.io/)  
-🛠 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
+🛠 **Tech Stack:** HTML, CSS, JavaScript
 📌 **Description:** Designed and developed the **official website for Enomatics**, a **wine dispensing company from Italy** that will be distributed by **SSGC in Singapore and Indonesia**.  
 - **Created an elegant, user-friendly UI**  
 - **Implemented product showcases** for Enomatics' wine dispensers  
