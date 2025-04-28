@@ -1,5 +1,3 @@
-# 🚀 Web Developer Portfolio  
-
 ## 👋 About Me  
 Hi! I'm **Kurt Ian G. Bernaldez**, an Information Technology student with 3+ years of experience in **Web Development, Software Development, UI Design, and System Administration**. I have a strong background in building responsive, user-centric applications using **ReactJS, Bootstrap, WordPress, and Firebase**.  
 
