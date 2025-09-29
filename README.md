@@ -60,11 +60,11 @@ Built a **recipe discovery app** with:
 
 ---
 
-### 5. **Blood Count UI Design**  
-🔗 [Figma Prototype](https://www.figma.com/proto/bMKMZriBSfyvLynlx8sn6U/Hospital-Landing-Page-(Community)?node-id=0-1&t=lTv9dVYUxdXTqNBE-1)  
+### 5. **UI/UX Design Projects (Figma Collection)**  
+🔗 [RSV4 Landing Page Design](https://www.figma.com/design/qpyJOoWdomsfnEDmQfnh3H/RSV4-Landing-Page?node-id=0-1&m=dev&t=jrks1IfUDAkG2QhX-1)
+🔗 [A&G Roof Steel Builders Draft](https://www.figma.com/design/pAxwGjpX472MQcY1aqB6F5/A-G-Roof-Steel-Builders-Draft-1?node-id=0-1&m=dev&t=YiAjwzgxpgwM8nus-1)  
+🔗 [Ka'Chava Redesign](https://www.figma.com/design/uK1K3j7dJtIgjfFszCb6IS/Ka-Chava-redesign?node-id=0-1&m=dev&t=ZzGOmnddkJuu2SSq-1)  
 
-📌 **Description:**  
-Designed a web platform to **streamline blood donation processes** and foster community engagement.  
 
 ---
 
